@@ -1,6 +1,6 @@
 name: ActivityWatch
 website_url: https://activitywatch.net
-description: An app that automatically tracks how you spend time on your devices.
+description: Automatically track how you spend time on your devices.
 licenses:
   - MPL-2.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - Time Tracking
 source_code_url: https://github.com/ActivityWatch/activitywatch
-stargazers_count: 13560
-updated_at: '2025-02-11'
+stargazers_count: 16146
+updated_at: '2025-10-02'
 archived: false
+current_release:
+  tag: v0.13.2
+  published_at: '2024-10-05'
+commit_history:
+  2025-01: 0
+  2025-02: 5
+  2025-03: 0
+  2025-04: 0
+  2025-05: 0
+  2025-06: 0
+  2025-07: 0
+  2025-08: 4
+  2025-09: 0
+  2025-10: 1
+  2025-11: 0
+  2025-12: 0

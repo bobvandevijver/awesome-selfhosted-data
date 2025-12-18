@@ -9,7 +9,22 @@ platforms:
 tags:
   - Document Management
   - Automation
-related_software_url: https://github.com/gotenberg/awesome-gotenberg
-stargazers_count: 8748
-updated_at: '2025-03-05'
+stargazers_count: 10679
+updated_at: '2025-12-17'
 archived: false
+current_release:
+  tag: v8.25.1
+  published_at: '2025-12-04'
+commit_history:
+  2025-01: 33
+  2025-02: 22
+  2025-03: 26
+  2025-04: 16
+  2025-05: 34
+  2025-06: 16
+  2025-07: 8
+  2025-08: 35
+  2025-09: 17
+  2025-10: 19
+  2025-11: 18
+  2025-12: 6

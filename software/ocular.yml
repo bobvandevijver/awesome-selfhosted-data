@@ -1,5 +1,5 @@
 name: Ocular
-website_url: https://github.com/simonwep/ocular
+website_url: https://simonwep.github.io/ocular/
 source_code_url: https://github.com/simonwep/ocular
 description: Simplistic and straightforward budgeting app to track your budget across months and years.
 licenses:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - Money, Budgeting & Management
 demo_url: https://ocular.reinisch.io/#demo
-stargazers_count: 180
-updated_at: '2025-02-23'
+stargazers_count: 344
+updated_at: '2025-12-13'
 archived: false
+current_release:
+  tag: v1.13.0
+  published_at: '2025-11-09'
+commit_history:
+  2025-01: 19
+  2025-02: 18
+  2025-03: 7
+  2025-04: 18
+  2025-05: 8
+  2025-06: 2
+  2025-07: 0
+  2025-08: 1
+  2025-09: 4
+  2025-10: 4
+  2025-11: 8
+  2025-12: 1

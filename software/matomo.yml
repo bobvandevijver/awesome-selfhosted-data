@@ -1,6 +1,6 @@
 name: Matomo
 website_url: https://matomo.org/
-description: Google Analytics alternative that protects your data and your customers' privacy.
+description: Web analytics that protects your data and your customers' privacy (alternative to Google Analytics).
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - Analytics
 source_code_url: https://github.com/matomo-org/matomo
-stargazers_count: 20278
-updated_at: '2025-03-03'
+stargazers_count: 21106
+updated_at: '2025-12-17'
 archived: false
+current_release:
+  tag: 5.7.0-alpha.20251212013507
+  published_at: '2025-12-12'
+commit_history:
+  2025-01: 37
+  2025-02: 57
+  2025-03: 42
+  2025-04: 31
+  2025-05: 48
+  2025-06: 39
+  2025-07: 31
+  2025-08: 45
+  2025-09: 42
+  2025-10: 60
+  2025-11: 80
+  2025-12: 43

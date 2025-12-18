@@ -1,10 +1,29 @@
 name: Openmeetings
 website_url: https://openmeetings.apache.org/index.html
-description: Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming.
+description: Video conferencing, instant messaging, whiteboard, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming.
 licenses:
   - Apache-2.0
 platforms:
   - Java
 tags:
   - Groupware
-source_code_url: https://openmeetings.apache.org/scm.html
+source_code_url: https://github.com/apache/openmeetings
+stargazers_count: 669
+updated_at: '2025-11-04'
+archived: false
+current_release:
+  tag: 8.1.0
+  published_at: '2025-10-05'
+commit_history:
+  2025-01: 5
+  2025-02: 2
+  2025-03: 1
+  2025-04: 2
+  2025-05: 3
+  2025-06: 4
+  2025-07: 11
+  2025-08: 7
+  2025-09: 8
+  2025-10: 6
+  2025-11: 3
+  2025-12: 0

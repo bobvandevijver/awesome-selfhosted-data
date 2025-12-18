@@ -1,6 +1,6 @@
 name: FlowForge
 website_url: https://flowforge.com/
-description: FlowForge allows companies to deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams.
+description: Deploy Node-RED applications in a reliable, scalable and secure manner. The FlowForge platform provides DevOps capabilities for Node-RED development teams.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,7 +9,23 @@ platforms:
   - K8S
 tags:
   - Internet of Things (IoT)
-source_code_url: https://github.com/flowforge/flowforge
-stargazers_count: 308
-updated_at: '2025-03-05'
+source_code_url: https://github.com/FlowFuse/flowfuse
+stargazers_count: 365
+updated_at: '2025-12-17'
 archived: false
+current_release:
+  tag: v2.24.5
+  published_at: '2025-12-09'
+commit_history:
+  2025-01: 321
+  2025-02: 373
+  2025-03: 430
+  2025-04: 309
+  2025-05: 215
+  2025-06: 368
+  2025-07: 415
+  2025-08: 288
+  2025-09: 483
+  2025-10: 344
+  2025-11: 495
+  2025-12: 152

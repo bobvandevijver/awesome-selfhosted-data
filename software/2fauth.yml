@@ -1,6 +1,6 @@
 name: 2FAuth
 website_url: https://github.com/Bubka/2FAuth
-description: A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes.
+description: Manage your Two-Factor Authentication (2FA) accounts and generate their security codes.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,22 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/Bubka/2FAuth
 demo_url: https://demo.2fauth.app/
-stargazers_count: 2553
-updated_at: '2024-11-27'
+stargazers_count: 3593
+updated_at: '2025-11-21'
 archived: false
+current_release:
+  tag: v5.6.1
+  published_at: '2025-11-21'
+commit_history:
+  2025-01: 0
+  2025-02: 15
+  2025-03: 28
+  2025-04: 10
+  2025-05: 2
+  2025-06: 23
+  2025-07: 0
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 6
+  2025-12: 0

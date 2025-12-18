@@ -1,6 +1,6 @@
 name: Dolibarr
 website_url: https://www.dolibarr.org/
-description: Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...).
+description: Modern CRM software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...).
 licenses:
   - GPL-3.0
 platforms:
@@ -8,8 +8,25 @@ platforms:
   - deb
 tags:
   - Resource Planning
+  - Customer Relationship Management (CRM)
 source_code_url: https://github.com/Dolibarr/dolibarr
 demo_url: https://www.dolibarr.org/onlinedemo.php
-stargazers_count: 5801
-updated_at: '2025-03-05'
+stargazers_count: 6748
+updated_at: '2025-12-17'
 archived: false
+current_release:
+  tag: 22.0.3
+  published_at: '2025-11-25'
+commit_history:
+  2025-01: 1369
+  2025-02: 1309
+  2025-03: 888
+  2025-04: 675
+  2025-05: 384
+  2025-06: 604
+  2025-07: 677
+  2025-08: 684
+  2025-09: 779
+  2025-10: 822
+  2025-11: 999
+  2025-12: 468

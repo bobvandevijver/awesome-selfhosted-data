@@ -1,0 +1,29 @@
+name: VoucherVault
+website_url: https://github.com/l4rm4nd/VoucherVault
+source_code_url: https://github.com/l4rm4nd/VoucherVault
+description: Store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO.
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+tags:
+  - Money, Budgeting & Management
+stargazers_count: 406
+updated_at: '2025-12-04'
+archived: false
+current_release:
+  tag: v1.22.13
+  published_at: '2025-12-04'
+commit_history:
+  2025-01: 50
+  2025-02: 25
+  2025-03: 4
+  2025-04: 21
+  2025-05: 21
+  2025-06: 41
+  2025-07: 2
+  2025-08: 12
+  2025-09: 9
+  2025-10: 6
+  2025-11: 5
+  2025-12: 2

@@ -1,14 +1,30 @@
 name: Radarr
 website_url: https://radarr.video/
-description: Radarr is an independent fork of Sonarr reworked for automatically downloading movies via Usenet and BitTorrent, à la Couchpotato.
+description: Automatically download movies via Usenet and BitTorrent (fork of Sonarr).
 licenses:
   - GPL-3.0
 platforms:
   - C#
   - Docker
 tags:
-  - Automation
+  - Media Management
 source_code_url: https://github.com/Radarr/Radarr
-stargazers_count: 11094
-updated_at: '2025-03-04'
+stargazers_count: 12655
+updated_at: '2025-12-10'
 archived: false
+current_release:
+  tag: v6.1.0.10309
+  published_at: '2025-12-15'
+commit_history:
+  2025-01: 32
+  2025-02: 41
+  2025-03: 75
+  2025-04: 90
+  2025-05: 55
+  2025-06: 37
+  2025-07: 9
+  2025-08: 14
+  2025-09: 47
+  2025-10: 9
+  2025-11: 6
+  2025-12: 1

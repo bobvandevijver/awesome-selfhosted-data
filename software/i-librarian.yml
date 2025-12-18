@@ -1,6 +1,6 @@
 name: I, Librarian
 website_url: https://i-librarian.net
-description: I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia.
+description: Organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +9,22 @@ tags:
   - Document Management
 source_code_url: https://github.com/mkucej/i-librarian-free
 demo_url: https://i-librarian.net/demo/
-stargazers_count: 285
-updated_at: '2025-03-04'
+stargazers_count: 319
+updated_at: '2025-12-02'
 archived: false
+current_release:
+  tag: 5.11.3
+  published_at: '2025-12-02'
+commit_history:
+  2025-01: 0
+  2025-02: 0
+  2025-03: 4
+  2025-04: 0
+  2025-05: 0
+  2025-06: 0
+  2025-07: 1
+  2025-08: 0
+  2025-09: 0
+  2025-10: 0
+  2025-11: 1
+  2025-12: 2

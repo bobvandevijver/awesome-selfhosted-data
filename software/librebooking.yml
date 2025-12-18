@@ -1,0 +1,31 @@
+name: LibreBooking
+website_url: https://librebooking.readthedocs.io/
+source_code_url: https://github.com/LibreBooking/app
+demo_url: https://librebooking-demo.fly.dev/
+description: Resource scheduling solution offering a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations.
+licenses:
+  - GPL-3.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Booking and Scheduling
+stargazers_count: 626
+updated_at: '2025-12-17'
+archived: false
+current_release:
+  tag: v4.0.0
+  published_at: '2025-08-06'
+commit_history:
+  2025-01: 31
+  2025-02: 29
+  2025-03: 0
+  2025-04: 0
+  2025-05: 54
+  2025-06: 85
+  2025-07: 96
+  2025-08: 25
+  2025-09: 18
+  2025-10: 9
+  2025-11: 2
+  2025-12: 5

@@ -1,6 +1,6 @@
 name: AppFlowy
 website_url: https://appflowy.io/
-description: With AppFlowy, you can build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative.
+description: Build detailed lists of to-do’s for different projects while tracking the status of each one. Open Source Notion Alternative.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,22 @@ platforms:
 tags:
   - Task Management & To-do Lists
 source_code_url: https://github.com/AppFlowy-IO/appflowy
-stargazers_count: 61095
-updated_at: '2025-03-05'
+stargazers_count: 67032
+updated_at: '2025-11-16'
 archived: false
+current_release:
+  tag: 0.10.6
+  published_at: '2025-12-05'
+commit_history:
+  2025-01: 76
+  2025-02: 51
+  2025-03: 253
+  2025-04: 271
+  2025-05: 93
+  2025-06: 19
+  2025-07: 3
+  2025-08: 4
+  2025-09: 1
+  2025-10: 0
+  2025-11: 6
+  2025-12: 0

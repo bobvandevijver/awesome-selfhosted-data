@@ -1,6 +1,6 @@
 name: EveryDocs
 website_url: https://github.com/jonashellmann/everydocs-core
-description: A simple Document Management System for private use with basic functionality to organize your documents digitally.
+description: Simple Document Management System for private use with basic functionality to organize your documents digitally.
 licenses:
   - GPL-3.0
 platforms:
@@ -9,6 +9,22 @@ platforms:
 tags:
   - Document Management
 source_code_url: https://github.com/jonashellmann/everydocs-core
-stargazers_count: 243
-updated_at: '2025-02-26'
+stargazers_count: 308
+updated_at: '2025-10-15'
 archived: false
+current_release:
+  tag: v1.0
+  published_at: '2019-10-16'
+commit_history:
+  2025-01: 0
+  2025-02: 19
+  2025-03: 4
+  2025-04: 4
+  2025-05: 2
+  2025-06: 2
+  2025-07: 2
+  2025-08: 2
+  2025-09: 0
+  2025-10: 4
+  2025-11: 0
+  2025-12: 0

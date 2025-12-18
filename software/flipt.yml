@@ -9,8 +9,23 @@ platforms:
   - K8S
   - Go
 tags:
-  - Miscellaneous
-demo_url: https://try.flipt.io
-stargazers_count: 4076
-updated_at: '2025-03-03'
+  - Software Development - Feature Toggle
+stargazers_count: 4663
+updated_at: '2025-12-17'
 archived: false
+current_release:
+  tag: v2.4.0
+  published_at: '2025-11-20'
+commit_history:
+  2025-01: 67
+  2025-02: 63
+  2025-03: 1
+  2025-04: 28
+  2025-05: 52
+  2025-06: 25
+  2025-07: 56
+  2025-08: 122
+  2025-09: 106
+  2025-10: 87
+  2025-11: 35
+  2025-12: 26

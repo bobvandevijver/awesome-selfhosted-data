@@ -1,6 +1,6 @@
 name: Gibbon
 website_url: https://gibbonedu.org/
-description: The flexible, open source school management platform designed to make life better for teachers, students, parents and leaders.
+description: Flexible school management platform designed to make life better for teachers, students, parents and leaders.
 licenses:
   - GPL-3.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - Learning and Courses
 source_code_url: https://github.com/GibbonEdu/core
-stargazers_count: 515
-updated_at: '2025-03-03'
+stargazers_count: 569
+updated_at: '2025-12-11'
 archived: false
+current_release:
+  tag: v30.0.00
+  published_at: '2025-11-20'
+commit_history:
+  2025-01: 11
+  2025-02: 59
+  2025-03: 41
+  2025-04: 34
+  2025-05: 132
+  2025-06: 6
+  2025-07: 0
+  2025-08: 10
+  2025-09: 72
+  2025-10: 59
+  2025-11: 72
+  2025-12: 23

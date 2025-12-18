@@ -1,0 +1,30 @@
+name: Ollama
+website_url: https://ollama.com/
+source_code_url: https://github.com/ollama/ollama
+description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - Python
+tags:
+  - Generative Artificial Intelligence (GenAI)
+stargazers_count: 157817
+updated_at: '2025-12-17'
+archived: false
+current_release:
+  tag: v0.13.4
+  published_at: '2025-12-13'
+commit_history:
+  2025-01: 39
+  2025-02: 139
+  2025-03: 178
+  2025-04: 97
+  2025-05: 109
+  2025-06: 56
+  2025-07: 47
+  2025-08: 81
+  2025-09: 80
+  2025-10: 136
+  2025-11: 107
+  2025-12: 71

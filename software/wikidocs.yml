@@ -9,7 +9,22 @@ platforms:
   - Docker
 tags:
   - Wikis
-demo_url: https://demo.wikidocs.it
-stargazers_count: 390
-updated_at: '2025-02-28'
+stargazers_count: 456
+updated_at: '2025-12-12'
 archived: false
+current_release:
+  tag: 1.0.82
+  published_at: '2025-12-12'
+commit_history:
+  2025-01: 7
+  2025-02: 6
+  2025-03: 0
+  2025-04: 1
+  2025-05: 0
+  2025-06: 2
+  2025-07: 6
+  2025-08: 5
+  2025-09: 0
+  2025-10: 4
+  2025-11: 0
+  2025-12: 3

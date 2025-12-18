@@ -1,6 +1,6 @@
 name: Datasette
 website_url: https://datasette.io/
-description: An open source multi-tool for exploring and publishing data, easy import and export and database management.
+description: Explore and publish data with easy import and export and database management.
 licenses:
   - Apache-2.0
 platforms:
@@ -9,7 +9,22 @@ platforms:
 tags:
   - Database Management
 source_code_url: https://github.com/simonw/datasette
-demo_url: https://global-power-plants.datasettes.com/global-power-plants/global-power-plants
-stargazers_count: 9837
-updated_at: '2025-03-01'
+stargazers_count: 10599
+updated_at: '2025-12-13'
 archived: false
+current_release:
+  tag: 1.0a23
+  published_at: '2025-12-03'
+commit_history:
+  2025-01: 5
+  2025-02: 13
+  2025-03: 5
+  2025-04: 7
+  2025-05: 2
+  2025-06: 0
+  2025-07: 1
+  2025-08: 0
+  2025-09: 2
+  2025-10: 139
+  2025-11: 43
+  2025-12: 10

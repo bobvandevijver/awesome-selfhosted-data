@@ -1,6 +1,6 @@
 name: PufferPanel
 website_url: https://www.pufferpanel.com/
-description: PufferPanel is an open source game server management panel, designed for both small networks and game server providers.
+description: Game server management panel designed for both small networks and game server providers.
 licenses:
   - Apache-2.0
 platforms:
@@ -8,6 +8,22 @@ platforms:
 tags:
   - Games - Administrative Utilities & Control Panels
 source_code_url: https://github.com/pufferpanel/pufferpanel
-stargazers_count: 1446
-updated_at: '2025-03-05'
+stargazers_count: 1618
+updated_at: '2025-12-16'
 archived: false
+current_release:
+  tag: v3.0.0-rc.15
+  published_at: '2025-09-10'
+commit_history:
+  2025-01: 22
+  2025-02: 33
+  2025-03: 43
+  2025-04: 6
+  2025-05: 3
+  2025-06: 27
+  2025-07: 9
+  2025-08: 17
+  2025-09: 24
+  2025-10: 9
+  2025-11: 5
+  2025-12: 4

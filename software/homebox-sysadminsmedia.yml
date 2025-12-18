@@ -1,7 +1,7 @@
 name: HomeBox (SysAdminsMedia)
 website_url: https://homebox.software/
 source_code_url: https://github.com/sysadminsmedia/homebox
-description: Inventory and organization system built for the Home User.
+description: Inventory and organization system built for the home user.
 licenses:
   - AGPL-3.0
 platforms:
@@ -10,6 +10,22 @@ platforms:
 tags:
   - Inventory Management
 demo_url: https://demo.homebox.software/
-stargazers_count: 2180
-updated_at: '2025-03-05'
+stargazers_count: 4372
+updated_at: '2025-12-12'
 archived: false
+current_release:
+  tag: v0.22.0-rc.2
+  published_at: '2025-12-06'
+commit_history:
+  2025-01: 91
+  2025-02: 93
+  2025-03: 87
+  2025-04: 54
+  2025-05: 89
+  2025-06: 142
+  2025-07: 165
+  2025-08: 166
+  2025-09: 28
+  2025-10: 11
+  2025-11: 14
+  2025-12: 17
